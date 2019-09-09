@@ -83,4 +83,13 @@
         android:textAllCaps="false"
         android:textSize="18sp" />
 
+    <Button
+        android:id="@+id/button_Thoat"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="Thoát"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
 </LinearLayout>
